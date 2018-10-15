@@ -8,6 +8,6 @@
 
 ✖　日経			(https://www.nikkei.com/）
 
-✖　Yahoo		(https://news.yahoo.co.jp/)
+✔　Yahoo		(https://news.yahoo.co.jp/)
 
 ✖　Google		(https://news.google.com/?hl=ja&gl=JP&ceid=JP%3Aja)
